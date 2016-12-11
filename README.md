@@ -58,7 +58,5 @@ We think these improvements would make the app even more useful. Give us a shout
   - Download [Exponent client](https://docs.getexponent.com/versions/v9.0.0/introduction/index.html), which provides a simulator to preview your app during development. 
     - Go to "Open Project" and open the exponent folder
 
-
-
 ## Questions? 
 - Give us a shout! Message any one of us. You can also contact MJ @ meijiao@gmail.com
